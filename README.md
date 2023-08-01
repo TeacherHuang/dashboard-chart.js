@@ -3,7 +3,7 @@
 ![Bar chart with any number of series](./bar.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-bar/
+https://teacherhuang.github.io/dashboard-chart.js/
 
 Sample data by CT Department of Education.
 
