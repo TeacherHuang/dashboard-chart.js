@@ -26,10 +26,10 @@ $(document).ready(function() {
   ];
 
   // x-axis label and label in tooltip
-  var X_AXIS = 'School Districts';
+  var X_AXIS = '訓練教室分布';
 
   // y-axis label, label in tooltip
-  var Y_AXIS = 'Number of Enrolled Students';
+  var Y_AXIS = '參加學員數量';
 
   // `true` to show the grid, `false` to hide
   var SHOW_GRID = true; 
